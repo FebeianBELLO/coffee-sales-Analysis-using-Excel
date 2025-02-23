@@ -14,7 +14,7 @@
 The goal of this project is to analyze coffee shop sales, customer behavior, and market trends to optimize business performance. Using Excel and Power BI,
 we will create interactive dashboards to gain insights into key metrics such as sales performance, customer segmentation, loyalty program effectiveness, geographical trends, seasonal patterns,
 and customer retention.
-![Dashboard](https://github.com/FebeianBELLO/Bank-of-America-Consumer-Complaints-Analysis/blob/main/Bank%20of%20America..image.png)
+![Dashboard](https://github.com/FebeianBELLO/coffee-sales-Analysis-using-Excel/blob/main/cof2.png)
 
 
 ### Data sources 
