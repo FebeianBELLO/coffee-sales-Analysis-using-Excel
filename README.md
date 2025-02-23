@@ -51,7 +51,7 @@ PowerBI
 -Analyze trends in new customer acquisitions across different regions to spot emerging markets.
 -Evaluate if specific coffee types, roast types, or locations receive more complaints or lower sales.
 
-![Dashboard](https://github.com/FebeianBELLO/Bank-of-America-Consumer-Complaints-Analysis/blob/main/consumer%20BOA.png)
+![Dashboard]([https://github.com/FebeianBELLO/Bank-of-America-Consumer-Complaints-Analysis/blob/main/consumer%20BOA.png](https://github.com/FebeianBELLO/coffee-sales-Analysis-using-Excel/blob/main/coffe_sales_ANALYSIS.png))
 
 
 ### Analysis findings 
