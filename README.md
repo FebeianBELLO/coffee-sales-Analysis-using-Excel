@@ -23,7 +23,7 @@ The primary dataset used for this analysis is the is gotten from kaggle
 Source: (Kaggle)
 ### Tools
 ---
-Excel
+### Excel
 - Pivot Tables
 - Formulas and Functions
 - Conditional Formatting
@@ -31,7 +31,8 @@ Excel
 - Power Query
 - Slicers
 - pivot charts
-PowerBI
+ 
+### PowerBI
 - visualization
 ### key features
 ---
@@ -55,7 +56,7 @@ PowerBI
 
 
 ### Analysis findings 
--Some months consistently outperform others, indicating opportunities for targeted promotions during slow periods.
+- Some months consistently outperform others, indicating opportunities for targeted promotions during slow periods.
 - The analysis identified Steady growth in sales in 2021,with thw highst quantity sold in march 2021, or decline in sales and april 2021, major 4 types of coffee was ordered,total custmer that orederd for the year is   292 customers, while 106 customer ordered in march 2021 alone.
 - Some months like april 2019,febuary 2020, march 2021, march 2022, consistently outperform others, indicating opportunities for targeted promotions during slow periods.
 - Returning customers contribute to overall sales, although the higest buying customer are people who are  not loyal 
